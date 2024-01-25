@@ -8,7 +8,7 @@ import { NotificationBar } from "./components";
 
 const router = createBrowserRouter([
 	{
-		path: "/",
+		path: "/3legant-E-Commerce/",
 		element: (
 			<>
 				<Home />
@@ -17,15 +17,15 @@ const router = createBrowserRouter([
 		errorElement: <Error />,
 	},
 	{
-		path: "/sign-up",
+		path: "/3legant-E-Commerce/sign-up",
 		element: <SignUp />,
 	},
 	{
-		path: "/sign-in",
+		path: "/3legant-E-Commerce/sign-in",
 		element: <SignIn />,
 	},
 	{
-		path: "/product",
+		path: "/3legant-E-Commerce/product",
 		element: (
 			<>
 				<NotificationBar />
@@ -34,7 +34,7 @@ const router = createBrowserRouter([
 		),
 	},
 	{
-		path: "/shop",
+		path: "/3legant-E-Commerce/shop",
 		element: (
 			<>
 				<NotificationBar />
@@ -43,7 +43,7 @@ const router = createBrowserRouter([
 		),
 	},
 	{
-		path: "/contact",
+		path: "/3legant-E-Commerce/contact",
 		element: <Contact />,
 	},
 ]);

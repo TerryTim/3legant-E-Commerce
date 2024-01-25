@@ -27,7 +27,7 @@ const SignIn = () => {
 						<p className="text-nickel font-inter font-normal text-base">
 							Don’t have an accout yet?{" "}
 							<Link
-								to="/sign-up"
+								to="/3legant-E-Commerce/sign-up"
 								className="text-green font-inter font-semibold text-base hover:underline"
 							>
 								Sign Up
@@ -67,7 +67,7 @@ const SignIn = () => {
 						</div>
 
 						<Link
-							to="/"
+							to="/3legant-E-Commerce/"
 							className="w-full h-12 mt-8 mb-10 flex justify-center items-center rounded-lg bg-primary text-white font-inter font-base font-semibold"
 						>
 							Sign In

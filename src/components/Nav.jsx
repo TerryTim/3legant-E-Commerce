@@ -61,19 +61,19 @@ const Nav = () => {
 						/>
 					</div>
 
-					<Link to="/" className="py-4 border-b border-bright-gray">
+					<Link to="/3legant-E-Commerce/" className="py-4 border-b border-bright-gray">
 						Home
 					</Link>
 
-					<Link to="/shop" className="py-4 border-b border-bright-gray">
+					<Link to="/3legant-E-Commerce/shop" className="py-4 border-b border-bright-gray">
 						Shop
 					</Link>
 
-					<Link to="/product" className="py-4 border-b border-bright-gray">
+					<Link to="/3legant-E-Commerce/product" className="py-4 border-b border-bright-gray">
 						Product
 					</Link>
 
-					<Link to="/contact" className="py-4 border-b border-bright-gray">
+					<Link to="/3legant-E-Commerce/contact" className="py-4 border-b border-bright-gray">
 						Contact Us
 					</Link>
 
@@ -100,7 +100,7 @@ const Nav = () => {
 					</div>
 
 					<Link
-						to="/"
+						to="/3legant-E-Commerce/"
 						className="w-full h-12 mt-8 mb-10 flex justify-center items-center rounded-lg bg-primary text-white font-inter font-base font-semibold"
 					>
 						Sign In
@@ -118,24 +118,24 @@ const Nav = () => {
 				</div>
 
 				<div className="text-nickel font-space-grotesk text-sm font-medium hidden md:block">
-					<Link to="/" className="mr-10 text-chinese-black">
+					<Link to="/3legant-E-Commerce/" className="mr-10 text-chinese-black">
 						Home
 					</Link>
 
-					<Link to="/shop" className="mr-10">
+					<Link to="/3legant-E-Commerce/shop" className="mr-10">
 						Shop
 					</Link>
 
-					<Link to="/product" className="mr-10">
+					<Link to="/3legant-E-Commerce/product" className="mr-10">
 						Product
 					</Link>
 
-					<Link to="/contact">Contact Us</Link>
+					<Link to="/3legant-E-Commerce/contact">Contact Us</Link>
 				</div>
 
 				<div className="flex justify-center items-center">
 					<img src={search} alt="search" className="mr-4 hidden md:block" />
-					<Link to="/sign-in">
+					<Link to="/3legant-E-Commerce/sign-in">
 						<img
 							src={userCircle}
 							alt="user circle"
