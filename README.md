@@ -1,8 +1,29 @@
-# React + Vite
+# 3legant E-Commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"3legant E-Commerce" is a modern and minimalist E-Commerce Website that brings a touch of elegance to your web projects. it offers a versatile solution for various e-commerce niches, including furniture, and decoration.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML5
+- Tailwind CSS
+- Flowbite
+- JavaScript
+- React + Vite
+- React Router
+
+## Credits
+
+- Figma Design: The design for this page is based on the work by [Jenkate](https://www.figma.com/community/file/1299098199775509142).
+
+## Live View
+- https://terrytim.github.io/3legant-E-Commerce/
+
+---
+
+![Screenshot 1](screenshot/Screenshot-1.png)
+
+![Screenshot 2](screenshot/Screenshot-2.png)
+
+![Screenshot 3](screenshot/Screenshot-3.png)
+
+![Screenshot 3](screenshot/Screenshot-4.png)
