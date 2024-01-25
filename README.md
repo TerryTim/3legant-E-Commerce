@@ -20,10 +20,10 @@
 
 ---
 
-![Screenshot 1](screenshot/Screenshot-1.jpg)
+![Screenshot 1](screenshot/Screenshot-1.png)
 
-![Screenshot 2](screenshot/Screenshot-2.jpg)
+![Screenshot 2](screenshot/Screenshot-2.png)
 
-![Screenshot 3](screenshot/Screenshot-3.jpg)
+![Screenshot 3](screenshot/Screenshot-3.png)
 
-![Screenshot 3](screenshot/Screenshot-4.jpg)
+![Screenshot 3](screenshot/Screenshot-4.png)
